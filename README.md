@@ -48,6 +48,13 @@ Screens
 - Add Medicine Screen
 - Search Results Screen
 
+- Future Enhancements
+AI-based medicine recommendations
+Voice search in local languages
+Medicine home delivery
+Doctor consultation integration
+Offline mode for low-network areas
+
 ---
 Project Structure
 
@@ -66,9 +73,5 @@ GramaSanjeevini/
 │   │   └── item_medicine.xml
 │   └── google-services.json
 └── README.md
-Future Enhancements
-AI-based medicine recommendations
-Voice search in local languages
-Medicine home delivery
-Doctor consultation integration
-Offline mode for low-network areas
+
+
